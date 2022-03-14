@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC11_IEC101_config", "SC11_IEC101_config\SC11_IEC101_config.csproj", "{6B0B5F98-BC58-463B-8D96-1D929245D9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0B5F98-BC58-463B-8D96-1D929245D9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0B5F98-BC58-463B-8D96-1D929245D9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0B5F98-BC58-463B-8D96-1D929245D9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0B5F98-BC58-463B-8D96-1D929245D9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760035C1-145C-4E43-872C-F6941F8D0257}
+	EndGlobalSection
+EndGlobal
