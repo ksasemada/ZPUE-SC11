@@ -199,9 +199,9 @@ namespace SC11_IEC101_config
             this.save_id_com_label.AutoSize = true;
             this.save_id_com_label.Location = new System.Drawing.Point(336, 79);
             this.save_id_com_label.Name = "save_id_com_label";
-            this.save_id_com_label.Size = new System.Drawing.Size(39, 13);
+            this.save_id_com_label.Size = new System.Drawing.Size(45, 13);
             this.save_id_com_label.TabIndex = 89;
-            this.save_id_com_label.Text = "Adress";
+            this.save_id_com_label.Text = "Address";
             this.save_id_com_label.Visible = false;
             // 
             // save_speed_com_label
